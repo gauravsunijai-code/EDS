@@ -16,8 +16,8 @@
     }
 
     body {
-      background: linear-gradient(135deg, #0f172a, #1e293b);
-      color: #e2e8f0;
+      background: linear-gradient(135deg, #0f172a, #1e3a8a);
+      color: #e0f2fe;
     }
 
     header {
@@ -26,14 +26,15 @@
     }
 
     h1 {
-      font-size: 34px;
+      font-size: 36px;
       font-weight: 600;
+      color: #ffffff;
     }
 
     .info {
       margin-top: 15px;
       line-height: 1.8;
-      opacity: 0.85;
+      color: #cbd5f5;
     }
 
     .container {
@@ -43,29 +44,34 @@
     }
 
     .card {
-      background: rgba(255, 255, 255, 0.05);
+      background: rgba(30, 58, 138, 0.4);
       backdrop-filter: blur(10px);
       border-radius: 16px;
       padding: 25px;
       margin: 20px 0;
-      box-shadow: 0 8px 30px rgba(0,0,0,0.3);
+      box-shadow: 0 8px 25px rgba(0,0,0,0.4);
       transition: 0.3s;
     }
 
     .card:hover {
-      transform: translateY(-5px);
+      transform: translateY(-4px);
+      background: rgba(30, 58, 138, 0.6);
     }
 
     h2 {
       margin-bottom: 15px;
+      font-weight: 500;
+      color: #ffffff;
     }
 
     a {
-      color: #38bdf8;
+      color: #93c5fd;
       text-decoration: none;
+      transition: 0.2s;
     }
 
     a:hover {
+      color: #ffffff;
       text-decoration: underline;
     }
 
@@ -74,11 +80,27 @@
       padding-left: 20px;
     }
 
+    .btn {
+      display: inline-block;
+      margin-top: 10px;
+      padding: 10px 20px;
+      background: #3b82f6;
+      color: #ffffff;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: 600;
+    }
+
+    .btn:hover {
+      background: #60a5fa;
+    }
+
     footer {
       text-align: center;
       padding: 20px;
       margin-top: 30px;
-      opacity: 0.6;
+      color: #cbd5f5;
+      font-size: 14px;
     }
   </style>
 </head>
@@ -97,6 +119,16 @@
 
 <div class="container">
 
+  <!-- GitHub Repo -->
+  <div class="card">
+    <h2>💻 GitHub Repository</h2>
+    <p>Access the complete project files:</p>
+    <a href="https://github.com/gauravsunijai-code/EDS/" target="_blank" class="btn">
+      🔗 Open GitHub
+    </a>
+  </div>
+
+  <!-- Preskilet -->
   <div class="card">
     <h2>📌 Preskilet Work</h2>
     <ul>
@@ -105,14 +137,16 @@
     </ul>
   </div>
 
+  <!-- CISCO -->
   <div class="card">
     <h2>📜 CISCO Certificates</h2>
     <ul>
-      <li><a href="https://drive.google.com/file/d/1-ctVJj54iyvS-01v7jK0YHFcXShNkrPi/view" target="_blank">Cisco Certificate 1</a></li>
-      <li><a href="https://drive.google.com/file/d/1-ctVJj54iyvS-01v7jK0YHFcXShNkrPi/view" target="_blank">Cisco Certificate 2</a></li>
+      <li><b>Python 1:</b> <a href="https://drive.google.com/file/d/1-ctVJj54iyvS-01v7jK0YHFcXShNkrPi/view" target="_blank">View Certificate</a></li>
+      <li><b>Python 2:</b> <a href="https://drive.google.com/file/d/1-ctVJj54iyvS-01v7jK0YHFcXShNkrPi/view" target="_blank">View Certificate</a></li>
     </ul>
   </div>
 
+  <!-- Assignments -->
   <div class="card">
     <h2>📂 Assignments</h2>
     <ul>
