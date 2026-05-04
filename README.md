@@ -9,7 +9,7 @@ PRN: 202501040118
 
 🌐 Live Website
 
-"Open Website" (https://github.com/gauravsunijai-code/EDS/)
+[Open Website](https://gauravsunijai-code.github.io/EDS/)
 
 📌 Preskilet Work
 
