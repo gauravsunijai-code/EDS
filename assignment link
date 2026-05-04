@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Gaurav Jaiswal Portfolio</title>
+
+<style>
+    body {
+        margin: 0;
+        font-family: 'Segoe UI', sans-serif;
+        background: linear-gradient(135deg, #667eea, #764ba2);
+        color: #333;
+    }
+
+    .container {
+        max-width: 900px;
+        margin: 40px auto;
+        background: white;
+        padding: 25px;
+        border-radius: 15px;
+        box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+        animation: fadeIn 1s ease-in;
+    }
+
+    h1 {
+        text-align: center;
+        color: #4a47a3;
+    }
+
+    h2 {
+        border-left: 5px solid #764ba2;
+        padding-left: 10px;
+        color: #444;
+    }
+
+    .section {
+        margin-bottom: 25px;
+        padding: 15px;
+        border-radius: 10px;
+        background: #f9f9ff;
+        transition: transform 0.3s, box-shadow 0.3s;
+    }
+
+    .section:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    }
+
+    a {
+        display: inline-block;
+        margin: 8px 5px;
+        padding: 10px 15px;
+        text-decoration: none;
+        color: white;
+        background: linear-gradient(135deg, #667eea, #764ba2);
+        border-radius: 8px;
+        font-weight: bold;
+        transition: 0.3s;
+    }
+
+    a:hover {
+        background: linear-gradient(135deg, #ff758c, #ff7eb3);
+        transform: scale(1.05);
+    }
+
+    p {
+        margin: 6px 0;
+    }
+
+    @keyframes fadeIn {
+        from {opacity: 0; transform: translateY(20px);}
+        to {opacity: 1; transform: translateY(0);}
+    }
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+    <h1>👨‍💻 Student Portfolio</h1>
+
+    <div class="section">
+        <h2>Student Details</h2>
+        <p><strong>Name:</strong> GAURAV SUNIL JAISWAL</p>
+        <p><strong>Division:</strong> CS2</p>
+        <p><strong>Batch:</strong> C21</p>
+        <p><strong>PRN:</strong> 202501040118</p>
+    </div>
+
+    <div class="section">
+        <h2>🌐 Live Website</h2>
+        <a href="https://github.com/gauravsunijai-code/EDS/" target="_blank">Open Website</a>
+    </div>
+
+    <div class="section">
+        <h2>📌 Preskilet Work</h2>
+        <a href="https://drive.google.com/file/d/1gjvGo-vTcAqZv32r112z3uM4fr4CuV5s/view" target="_blank">Watch Video</a>
+        <a href="https://drive.google.com/file/d/1cnk-qEgmRH2NL_MEhOHIGsoSap_JJ0-i/view" target="_blank">View PPT</a>
+    </div>
+
+    <div class="section">
+        <h2>📜 CISCO Certificates</h2>
+        <a href="https://drive.google.com/file/d/1-ctVJj54iyvS-01v7jK0YHFcXShNkrPi/view" target="_blank">Cisco Certificate 1</a>
+        <a href="https://drive.google.com/file/d/1-ctVJj54iyvS-01v7jK0YHFcXShNkrPi/view" target="_blank">Cisco Certificate 2</a>
+    </div>
+
+    <div class="section">
+        <h2>📂 Assignments</h2>
+        <a href="https://drive.google.com/drive/folders/1DHhqIe-pMmouepSuwTNitJOJ9qZJab_B" target="_blank">Assignment 1</a>
+        <a href="https://drive.google.com/drive/folders/1SSWV7tGCG7cw-ObrXUypA23eB78e8rA" target="_blank">Assignment 2</a>
+        <a href="https://drive.google.com/drive/folders/1tEko-gTirhmlVsFkUpyLezRUJZVPC2j4" target="_blank">Assignment 3</a>
+        <a href="https://drive.google.com/drive/folders/12_NfaXLg2dksSdzX9Pt6hkuhn5zfIgb9" target="_blank">Assignment 4</a>
+        <a href="https://drive.google.com/drive/folders/1GPGH9t44-rpr29UZgVOHGfm2zNWKiY0B" target="_blank">Assignment 5</a>
+    </div>
+
+</div>
+
+</body>
+</html>
