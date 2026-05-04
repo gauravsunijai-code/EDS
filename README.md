@@ -13,17 +13,17 @@ PRN: 202501040118
 
 📌 Preskilet Work
 
-- "Watch Video" (PASTE_VIDEO_LINK)
-- "View PPT" (PASTE_PPT_LINK)
+- "Watch Video" (https://drive.google.com/file/d/1gjvGo-vTcAqZv32r112z3uM4fr4CuV5s/view?usp=drivesdk)
+- "View PPT" (https://drive.google.com/file/d/1cnk-qEgmRH2NL_MEhOHIGsoSap_JJ0-i/view?usp=drivesdk)
 
 📜 CISCO Certificate
 
-- "View Certificate" (PASTE_CERT_LINK)
-
+- "Cisco Certificate 1" (https://drive.google.com/file/d/1-ctVJj54iyvS-01v7jK0YHFcXShNkrPi/view?usp=drivesdk)
+- "Cisco Certificate 2" (https://drive.google.com/file/d/1-ctVJj54iyvS-01v7jK0YHFcXShNkrPi/view?usp=drivesdk)
 📂 Assignments
 
-- "Assignment 1" (LINK)
-- "Assignment 2" (LINK)
-- "Assignment 3" (LINK)
-- "Assignment 4" (LINK)
-- "Assignment 5" (LINK)
+- "Assignment 1" (https://drive.google.com/drive/folders/1DHhqIe-pMmouepSuwTNitJOJ9qZJab_B)
+- "Assignment 2" (https://drive.google.com/drive/folders/1SSWV7tGCG7cw-ObrXUypA23eB78e8rA)
+- "Assignment 3" (https://drive.google.com/drive/folders/1tEko-gTirhmlVsFkUpyLezRUJZVPC2j4)
+- "Assignment 4" (https://drive.google.com/drive/folders/12_NfaXLg2dksSdzX9Pt6hkuhn5zfIgb9)
+- "Assignment 5" (https://drive.google.com/drive/folders/1GPGH9t44-rpr29UZgVOHGfm2zNWKiY0B)
